@@ -75,7 +75,7 @@ var fan=true;
   });
 
 
-      $("#groundfloor").click(functioN(e){
+      $("#groundfloor").click(function(e){
 
         e.preventDefault();
     window.location="success.html";

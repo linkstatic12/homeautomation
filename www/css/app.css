@@ -1,0 +1,16 @@
+.heading1
+{color:white !important;
+  float: none;
+  margin-left:-20px !important;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;}
+ .flat button.hover {
+  background-color: #346392;
+  text-shadow: -1px 1px #27496d;
+}
+.hub a:hover{ 
+     background: url(img/hubpressed.png);
+}
